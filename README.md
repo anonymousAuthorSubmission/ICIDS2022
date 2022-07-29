@@ -1,4 +1,4 @@
-# DIS2022_Pictorial
+# ICIDS2022
 
 open up the terminal or command prompt
 navigate to the directory where the files live
